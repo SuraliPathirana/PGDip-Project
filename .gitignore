@@ -1,5 +1,3 @@
-# Paper PDFs (copyright, size)
-papers/*.pdf
 # LaTeX build files
 *.aux
 *.bbl
